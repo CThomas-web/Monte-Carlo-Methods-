@@ -2,12 +2,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr  6 10:28:09 2020
-
-@author: chad
-"""
 #Monte_Carlo_project<thmcha014>
 #Estimating Integrals Along 1 Dimension
-#Computational Methods 2020 NASSP Honours
+@author: chad
+"""
+
 #------------------------------------------------------------------------------------------------
 #Question 3  
 
