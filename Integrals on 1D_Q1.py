@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Apr  5 18:11:32 2020
-Module: AST40007W-Computaional Methods 
-#Monte_Carlo_project<thmcha014>
 #Estimating Integrals Along 1 Dimension
 @author: Chad Thomas <thmcha014>
 """
