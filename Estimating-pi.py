@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr  4 11:39:59 2020
-Module: AST40007W-Computaional Methods 
-#Monte_Carlo_Project<thmcha014>
 #Part 1: Estimating the value of pi using the Monte Carlo method.
 @author: Chad Thomas <thmcha014>
 """
